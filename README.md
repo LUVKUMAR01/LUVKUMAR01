@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **File Sharing Management**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **SpringBoot,Jenkins,AWS,Hibernate,Microservices,Restful APIs**
 
