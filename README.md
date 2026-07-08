@@ -117,7 +117,7 @@ https://github.com/LUVKUMAR01/Microservices-Project
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LUVKUMAR01&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LUVKUMAR01)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&layout=compact&theme=tokyonight)
 
