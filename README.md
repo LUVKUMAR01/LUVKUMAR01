@@ -1,136 +1,360 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Luv+Kumar;Java+Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Building+AI-Powered+Backend+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Luv+Kumar;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+AI-Powered+Backend+Applications;Open+to+Java+Backend+Developer+Roles" alt="Typing SVG"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Luv Kumar</h1>
+
+<h3 align="center">
+Java Backend Developer • Spring Boot • Microservices • Spring Security • REST APIs • AI Integration
+</h3>
+
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=LUVKUMAR01">
+<img src="https://komarev.com/ghpvc/?username=LUVKUMAR01&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+
+<a href="https://github.com/LUVKUMAR01?tab=followers">
+<img src="https://img.shields.io/github/followers/LUVKUMAR01?label=Followers&style=social"/>
+</a>
+
+<a href="https://github.com/LUVKUMAR01">
+<img src="https://img.shields.io/github/stars/LUVKUMAR01?affiliations=OWNER&style=social"/>
+</a>
+</p>
+
+---
+
 <table>
 <tr>
+
 <td width="60%">
 
-<h1>Hi 👋, I'm Luv Kumar</h1>
+# 👨‍💻 About Me
 
-<h3>Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integration</h3>
+🎓 MCA Graduate from **NIT Allahabad**
 
-<p>
-Passionate about building scalable backend applications using Java, Spring Boot, Microservices, Spring Security, and AI-powered solutions.
-</p>
+💼 Passionate **Java Backend Developer**
 
-### 👨‍💻 About Me
+🚀 Building scalable backend applications using
 
-- 🎓 MCA Graduate from NIT Allahabad
-- 💼 Java Backend Developer
-- 🌱 Currently learning **Kafka, Redis, Docker, Prometheus, Grafana & AWS**
-- 🚀 Building production-style backend applications with **Spring Boot & Microservices**
-- 🤖 Exploring **LLM Integration using Google Gemini**
-- 📚 Solved **300+ DSA Problems**
-- 📫 Reach me at **luvsahu24@gmail.com**
-- 💼 Open to **Java Backend Developer** opportunities
+- Spring Boot
+- Microservices
+- REST APIs
+- Spring Security
+- Spring Data JPA
+
+🤖 Exploring
+
+- Google Gemini AI
+- AI-powered Backend Systems
+- Local LLMs using Ollama
+
+🌱 Currently Learning
+
+- Apache Kafka
+- Redis
+- Docker
+- Prometheus
+- Grafana
+- AWS
+
+🏆 Highlights
+
+✅ AI-powered Resume ATS
+
+✅ Spring Boot Microservices
+
+✅ 300+ DSA Problems
+
+✅ AIR 259 (NIMCET)
+
+📫 Email
+
+**luvsahu24@gmail.com**
+
+💼 Open to
+
+**Java Backend Developer**
+
+**Associate Software Engineer**
 
 </td>
 
 <td width="40%">
 
-<img align="center" alt="Coding" width="380"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="380"/>
 
 </td>
+
 </tr>
 </table>
+
 ---
 
 # 🚀 Featured Projects
 
-## 📄 HireWise AI – Resume ATS & Mock Interview System
+# 🤖 HireWise AI — Resume ATS & Mock Interview System
 
-**Tech Stack**
+### 🔹 Description
 
-Spring Boot • Spring Security • JWT • Gemini AI • Spring Data JPA • MySQL • Swagger
+An AI-powered backend application that automates resume evaluation, matches resumes with job descriptions, and generates AI-based mock interviews using Google Gemini AI.
 
-### Features
+### ⚙️ Tech Stack
 
-- AI Resume ATS
-- Resume vs Job Description Matching
-- ATS Score Generation
-- Skill Gap Analysis
-- Mock Interview
-- JWT Authentication
+- Java 17
+- Spring Boot
+- Spring Security
+- JWT
+- Spring Data JPA
+- MySQL
+- Gemini AI
+- Swagger
+- Maven
 
-🔗 Repository
+### ✨ Key Features
+
+✅ Resume vs Job Description Matching
+
+✅ ATS Score Generation
+
+✅ Missing Keyword Analysis
+
+✅ AI Skill Gap Detection
+
+✅ Resume Improvement Suggestions
+
+✅ Mock Interview Generation
+
+✅ AI Answer Evaluation
+
+✅ Secure JWT Authentication
+
+### 🔗 Repository
 
 https://github.com/LUVKUMAR01/hirewiseai-backend
 
 ---
 
-## 🏢 Employee Management Microservices
+# ☁️ Employee Management Microservices
 
-**Tech Stack**
+### 🔹 Description
 
-Spring Boot • Spring Cloud • Eureka Server • API Gateway • Config Server • REST APIs
+A production-style Spring Boot Microservices project demonstrating service discovery, centralized API routing, and communication between independent backend services.
 
-### Features
+### ⚙️ Tech Stack
 
-- Authentication Service
-- Employee Service
-- Address Service
-- Service Discovery
+- Spring Boot
+- Spring Cloud
+- Eureka Server
 - API Gateway
 - Config Server
+- REST APIs
+- Maven
 
-🔗 Repository
+### ✨ Features
+
+✅ Employee Service
+
+✅ Department Service
+
+✅ User Service
+
+✅ Eureka Service Discovery
+
+✅ API Gateway
+
+✅ Config Server
+
+✅ REST API Communication
+
+### 🔗 Repository
 
 https://github.com/LUVKUMAR01/Microservices-Project
 
 ---
 
+# 📌 Currently Working On
+
+- 🚀 Kafka Integration
+- ☁️ Docker Deployment
+- 📊 Prometheus + Grafana Monitoring
+- 🤖 AI Backend Applications
+- 🔥 System Design
+- ⚡ Spring Boot Best Practices---
+
 # 💻 Tech Stack
 
-### Backend
+## 🚀 Backend Development
 
-![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,mongodb"/>
 
-### Microservices
-
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge)
-![Eureka](https://img.shields.io/badge/Eureka_Server-green?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API_Gateway-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-orange?style=for-the-badge)
+</p>
 
 ---
 
-### Database
+## ☁️ Microservices & DevOps
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github"/>
 
-### DevOps & Cloud
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
-### AI & Monitoring
+<img src="https://img.shields.io/badge/Eureka%20Server-green?style=for-the-badge"/>
 
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+<img src="https://img.shields.io/badge/API%20Gateway-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-orange?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🌐 Connect with Me
+## 🤖 AI & Monitoring
 
-LinkedIn: https://linkedin.com/in/luv-kumar-b8218222a
+<p align="center">
 
-GitHub: https://github.com/LUVKUMAR01
+<img src="https://img.shields.io/badge/Gemini-AI-blueviolet?style=for-the-badge"/>
 
-Email: luvsahu24@gmail.com
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka"/>
+
+<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis"/>
+
+<img src="https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=LUVKUMAR01&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LUVKUMAR01&theme=algolia&no-frame=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **⚠️ Enable GitHub Actions first (explained below).**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/LUVKUMAR01/LUVKUMAR01/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/luv-kumar-b8218222a/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:luvsahu24@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/LUVKUMAR01">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+<h3 align="center">
+
+⭐ If you like my projects, don't forget to ⭐ Star the repositories!
+
+</h3>
+
+<h4 align="center">
+
+Thanks for visiting my profile ❤️
+
+</h4>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</p>
