@@ -8,6 +8,10 @@ Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integratio
 Passionate about building scalable backend applications using Java, Spring Boot, Microservices, Spring Security, and AI-powered solutions.
 </p>
 
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNhNWlqMmxhem1hNjNnZXFiZ2U4Ynp6Ymp3cW9pNWh4MnhyNnBxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LUVKUMAR01&label=Profile%20views&color=0e75b6&style=flat" alt="LUVKUMAR01" /> </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -120,27 +124,3 @@ LinkedIn: https://linkedin.com/in/luv-kumar-b8218222a
 GitHub: https://github.com/LUVKUMAR01
 
 Email: luvsahu24@gmail.com
-
----
-
-⭐ *If you like my projects, consider giving them a star!*
-
-1. Snake Contribution Animation 🐍
-
-Add this at the bottom:
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/LUVKUMAR01/LUVKUMAR01/output/github-contribution-grid-snake.svg">
-</p>
-
-(You'll need a GitHub Action to generate this automatically.)
-
-2. Visitor Counter
-![](https://komarev.com/ghpvc/?username=LUVKUMAR01&color=brightgreen)
-3. LeetCode Badge
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Problems-orange?logo=leetcode)](https://leetcode.com/)
-4. Profile Trophy (Optional)
-![](https://github-profile-trophy.vercel.app/?username=LUVKUMAR01&theme=algolia&no-frame=true&margin-w=8)
-⭐ Final Rating
