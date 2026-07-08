@@ -12,7 +12,7 @@ Passionate about building scalable backend applications using Java, Spring Boot,
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate
+- 🎓 MCA Graduate from NIT Allahabad
 - 💼 Java Backend Developer
 - 🌱 Currently learning **Kafka, Redis, Docker, Prometheus, Grafana, AWS**
 - 🔭 Building **Production-style Spring Boot & Microservices Projects**
@@ -113,13 +113,13 @@ https://github.com/LUVKUMAR01/Microservices-Project
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=LUVKUMAR01&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=LUVKUMAR01&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&layout=compact&theme=tokyonight)
 
 ---
 
