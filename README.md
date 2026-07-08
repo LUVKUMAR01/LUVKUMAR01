@@ -1,27 +1,132 @@
 <h1 align="center">Hi 👋, I'm Luv Kumar</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
 
+<h3 align="center">
+Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integration
+</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lav.raj.5815) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anonymous_sa07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/luv-kumar-b8218222a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luvsahu24@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LUVKUMAR01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LUVKUMAR01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LUVKUMAR01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Passionate about building scalable backend applications using Java, Spring Boot, Microservices, Spring Security, and AI-powered solutions.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LUVKUMAR01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 MCA Graduate
+- 💼 Java Backend Developer
+- 🌱 Currently learning **Kafka, Redis, Docker, Prometheus, Grafana, AWS**
+- 🔭 Building **Production-style Spring Boot & Microservices Projects**
+- 🤖 Exploring **AI + LLM Integration using Google Gemini**
+- 📫 Email: **luvsahu24@gmail.com**
+- 💼 Open to **Java Backend Developer / Associate Software Engineer** opportunities
+
+---
+
+# 🚀 Featured Projects
+
+## 📄 HireWise AI – Resume ATS & Mock Interview System
+
+**Tech Stack**
+
+Spring Boot • Spring Security • JWT • Gemini AI • Spring Data JPA • MySQL • Swagger
+
+### Features
+
+- AI Resume ATS
+- Resume vs Job Description Matching
+- ATS Score Generation
+- Skill Gap Analysis
+- Mock Interview
+- JWT Authentication
+
+🔗 Repository
+
+https://github.com/LUVKUMAR01/hirewiseai-backend
+
+---
+
+## 🏢 Employee Management Microservices
+
+**Tech Stack**
+
+Spring Boot • Spring Cloud • Eureka Server • API Gateway • Config Server • REST APIs
+
+### Features
+
+- Authentication Service
+- Employee Service
+- Address Service
+- Service Discovery
+- API Gateway
+- Config Server
+
+🔗 Repository
+
+https://github.com/LUVKUMAR01/Microservices-Project
+
+---
+
+# 💻 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+---
+
+### Microservices
+
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge)
+![Eureka](https://img.shields.io/badge/Eureka_Server-green?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-orange?style=for-the-badge)
+
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+### AI & Monitoring
+
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LUVKUMAR01&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect with Me
+
+[LinkedIn](https://linkedin.com/in/luv-kumar-b8218222a)
+
+GitHub: https://github.com/LUVKUMAR01
+
+Email: luvsahu24@gmail.com
