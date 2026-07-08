@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Luv+Kumar;Java+Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Building+AI-Powered+Backend+Applications" />
+</p>
 <table>
 <tr>
 <td width="60%">
@@ -26,7 +29,7 @@ Passionate about building scalable backend applications using Java, Spring Boot,
 <td width="40%">
 
 <img align="center" alt="Coding" width="380"
-src="YOUR_GIF_LINK_HERE">
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 </td>
 </tr>
