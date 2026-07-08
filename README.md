@@ -1,73 +1,42 @@
+<h1 align="center">Hi 👋, I'm Luv Kumar</h1>
+
 <h3 align="center">
-Java Backend Developer | Spring Boot | Microservices | Spring Security | AI Integration
+Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integration
 </h3>
 
-<table>
-<tr>
+<p align="center">
+Passionate about building scalable backend applications using Java, Spring Boot, Microservices, Spring Security, and AI-powered solutions.
+</p>
 
-<td width="60%">
+---
 
 ## 👨‍💻 About Me
 
-🎓 MCA Graduate
-
-💼 Passionate Java Backend Developer
-
-🚀 Building scalable backend applications using **Spring Boot**, **Microservices**, and **REST APIs**
-
-🤖 Exploring **AI Integration using Google Gemini**
-
-🌱 Currently learning
-
-- Apache Kafka
-- Redis
-- Docker
-- Prometheus
-- Grafana
-- AWS
-
-🏆 Highlights
-
-- ✅ Built AI-powered Resume ATS using Gemini AI
-- ✅ Built Production-style Spring Boot Microservices
-- ✅ Solved **300+ DSA Problems**
-- ✅ AIR **259** in NIMCET
-
-📫 **Email**
-
-**luvsahu24@gmail.com**
-
-💼 **Open to Java Backend Developer & Associate Software Engineer Roles**
-
-</td>
-
-<td width="40%">
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="380">
-
-</td>
-
-</tr>
-</table>
+- 🎓 MCA Graduate from NIT Allahabad
+- 💼 Java Backend Developer
+- 🌱 Currently learning **Kafka, Redis, Docker, Prometheus, Grafana, AWS**
+- 🔭 Building **Production-style Spring Boot & Microservices Projects**
+- 🤖 Exploring **AI + LLM Integration using Google Gemini**
+- 📫 Email: **luvsahu24@gmail.com**
+- 💼 Open to **Java Backend Developer / Associate Software Engineer** opportunities
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 HireWise AI — Resume ATS & Mock Interview
+## 📄 HireWise AI – Resume ATS & Mock Interview System
 
 **Tech Stack**
 
-Java • Spring Boot • Spring Security • JWT • Gemini AI • Spring Data JPA • MySQL • Swagger
+Spring Boot • Spring Security • JWT • Gemini AI • Spring Data JPA • MySQL • Swagger
 
 ### Features
 
-- AI Resume Analysis
+- AI Resume ATS
 - Resume vs Job Description Matching
 - ATS Score Generation
-- Missing Keyword Analysis
+- Skill Gap Analysis
 - Mock Interview
-- AI Feedback
 - JWT Authentication
 
 🔗 Repository
@@ -76,7 +45,7 @@ https://github.com/LUVKUMAR01/hirewiseai-backend
 
 ---
 
-## ☁️ Employee Management Microservices
+## 🏢 Employee Management Microservices
 
 **Tech Stack**
 
@@ -89,7 +58,7 @@ Spring Boot • Spring Cloud • Eureka Server • API Gateway • Config Server
 - Address Service
 - Service Discovery
 - API Gateway
-- Centralized Configuration
+- Config Server
 
 🔗 Repository
 
@@ -101,65 +70,56 @@ https://github.com/LUVKUMAR01/Microservices-Project
 
 ### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,postgres"/>
-
-</p>
-
-### Microservices & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
-
-</p>
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
 ---
 
-# 📊 GitHub Analytics
+### Microservices
 
-<p align="center">
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge)
+![Eureka](https://img.shields.io/badge/Eureka_Server-green?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-orange?style=for-the-badge)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&show_icons=true&theme=github_dark&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&layout=compact&theme=github_dark&hide_border=true"/>
+### Database
 
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-<p align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=LUVKUMAR01&theme=github-dark-blue&hide_border=true"/>
+### DevOps & Cloud
 
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+### AI & Monitoring
+
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
 ---
 
 # 🌐 Connect with Me
 
-<p align="left">
+LinkedIn: https://linkedin.com/in/luv-kumar-b8218222a
 
-<a href="https://www.linkedin.com/in/luv-kumar-b8218222a/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+GitHub: https://github.com/LUVKUMAR01
 
-<a href="mailto:luvsahu24@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/LUVKUMAR01">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+Email: luvsahu24@gmail.com
 
 ---
 
