@@ -125,7 +125,7 @@ https://github.com/LUVKUMAR01/Microservices-Project
 
 # 🌐 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/luv-kumar-b8218222a)
+LinkedIn: https://linkedin.com/in/luv-kumar-b8218222a
 
 GitHub: https://github.com/LUVKUMAR01
 
