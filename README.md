@@ -1,25 +1,36 @@
-<h1 align="center">Hi 👋, I'm Luv Kumar</h1>
+<table>
+<tr>
+<td width="60%">
 
-<h3 align="center">
-Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integration
-</h3>
+<h1>Hi 👋, I'm Luv Kumar</h1>
 
-<p align="center">
+<h3>Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integration</h3>
+
+<p>
 Passionate about building scalable backend applications using Java, Spring Boot, Microservices, Spring Security, and AI-powered solutions.
 </p>
 
----
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 MCA Graduate from NIT Allahabad
 - 💼 Java Backend Developer
-- 🌱 Currently learning **Kafka, Redis, Docker, Prometheus, Grafana, AWS**
-- 🔭 Building **Production-style Spring Boot & Microservices Projects**
-- 🤖 Exploring **AI + LLM Integration using Google Gemini**
-- 📫 Email: **luvsahu24@gmail.com**
-- 💼 Open to **Java Backend Developer / Associate Software Engineer** opportunities
+- 🌱 Currently learning **Kafka, Redis, Docker, Prometheus, Grafana & AWS**
+- 🚀 Building production-style backend applications with **Spring Boot & Microservices**
+- 🤖 Exploring **LLM Integration using Google Gemini**
+- 📚 Solved **300+ DSA Problems**
+- 📫 Reach me at **luvsahu24@gmail.com**
+- 💼 Open to **Java Backend Developer** opportunities
 
+</td>
+
+<td width="40%">
+
+<img align="center" alt="Coding" width="380"
+src="YOUR_GIF_LINK_HERE">
+
+</td>
+</tr>
+</table>
 ---
 
 # 🚀 Featured Projects
@@ -110,16 +121,6 @@ https://github.com/LUVKUMAR01/Microservices-Project
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUVKUMAR01&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=LUVKUMAR01)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LUVKUMAR01&layout=compact&theme=tokyonight)
 
 ---
 
