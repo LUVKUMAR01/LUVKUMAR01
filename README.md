@@ -8,7 +8,7 @@ Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integratio
 Passionate about building scalable backend applications using Java, Spring Boot, Microservices, Spring Security, and AI-powered solutions.
 </p>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNhNWlqMmxhem1hNjNnZXFiZ2U4Ynp6Ymp3cW9pNWh4MnhyNnBxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNhNWlqMmxhem1hNjNnZXFiZ2U4Ynp6Ymp3cW9pNWh4MnhyNnBxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LUVKUMAR01&label=Profile%20views&color=0e75b6&style=flat" alt="LUVKUMAR01" /> </p>
 
